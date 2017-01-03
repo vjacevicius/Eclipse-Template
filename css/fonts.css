@@ -1,0 +1,119 @@
+/*Montserat*/
+@font-face {
+	font-family: 'Montserrat';
+	src: url('../fonts/Montserrat-Bold.eot');
+	src: url('../fonts/Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Montserrat-Bold.woff2') format('woff2'),
+		url('../fonts/Montserrat-Bold.woff') format('woff'),
+		url('../fonts/Montserrat-Bold.ttf') format('truetype'),
+		url('../fonts/Montserrat-Bold.svg#Montserrat-Bold') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('../fonts/Montserrat-Regular.eot');
+	src: url('../fonts/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Montserrat-Regular.woff2') format('woff2'),
+		url('../fonts/Montserrat-Regular.woff') format('woff'),
+		url('../fonts/Montserrat-Regular.ttf') format('truetype'),
+		url('../fonts/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+/*Fira*/
+@font-face {
+	font-family: 'Fira Sans';
+	src: url('../fonts/FiraSans-Bold.eot');
+	src: url('../fonts/FiraSans-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/FiraSans-Bold.woff2') format('woff2'),
+		url('../fonts/FiraSans-Bold.woff') format('woff'),
+		url('../fonts/FiraSans-Bold.ttf') format('truetype'),
+		url('../fonts/FiraSans-Bold.svg#FiraSans-Bold') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Fira Sans';
+	src: url('../fonts/FiraSans-Medium.eot');
+	src: url('../fonts/FiraSans-Medium.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/FiraSans-Medium.woff2') format('woff2'),
+		url('../fonts/FiraSans-Medium.woff') format('woff'),
+		url('../fonts/FiraSans-Medium.ttf') format('truetype'),
+		url('../fonts/FiraSans-Medium.svg#FiraSans-Medium') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Fira Sans';
+	src: url('../fonts/FiraSans-MediumItalic.eot');
+	src: url('../fonts/FiraSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/FiraSans-MediumItalic.woff2') format('woff2'),
+		url('../fonts/FiraSans-MediumItalic.woff') format('woff'),
+		url('../fonts/FiraSans-MediumItalic.ttf') format('truetype'),
+		url('../fonts/FiraSans-MediumItalic.svg#FiraSans-MediumItalic') format('svg');
+	font-weight: 500;
+	font-style: italic;
+}
+
+
+@font-face {
+	font-family: 'Fira Sans';
+	src: url('../fonts/FiraSans-BoldItalic.eot');
+	src: url('../fonts/FiraSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/FiraSans-BoldItalic.woff2') format('woff2'),
+		url('../fonts/FiraSans-BoldItalic.woff') format('woff'),
+		url('../fonts/FiraSans-BoldItalic.ttf') format('truetype'),
+		url('../fonts/FiraSans-BoldItalic.svg#FiraSans-BoldItalic') format('svg');
+	font-weight: 700;
+	font-style: italic;
+}
+
+/*Gotham*/
+@font-face {
+	font-family: 'Gotham';
+	src: url('../fonts/GothamBold.eot');
+	src: url('../fonts/GothamBold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/GothamBold.woff2') format('woff2'),
+		url('../fonts/GothamBold.woff') format('woff'),
+		url('../fonts/GothamBold.ttf') format('truetype'),
+		url('../fonts/GothamBold.svg#GothamBold') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Gotham';
+	src: url('../fonts/GothamBold-Italic.eot');
+	src: url('../fonts/GothamBold-Italic.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/GothamBold-Italic.woff2') format('woff2'),
+		url('../fonts/GothamBold-Italic.woff') format('woff'),
+		url('../fonts/GothamBold-Italic.ttf') format('truetype'),
+		url('../fonts/GothamBold-Italic.svg#GothamBold-Italic') format('svg');
+	font-weight: 700;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Gotham';
+	src: url('../fonts/GothamMedium.eot');
+	src: url('../fonts/GothamMedium.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/GothamMedium.woff2') format('woff2'),
+		url('../fonts/GothamMedium.woff') format('woff'),
+		url('../fonts/GothamMedium.ttf') format('truetype'),
+		url('../fonts/GothamMedium.svg#GothamMedium') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Gotham';
+	src: url('../fonts/GothamMedium-Italic.eot');
+	src: url('../fonts/GothamMedium-Italic.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/GothamMedium-Italic.woff2') format('woff2'),
+		url('../fonts/GothamMedium-Italic.woff') format('woff'),
+		url('../fonts/GothamMedium-Italic.ttf') format('truetype'),
+		url('../fonts/GothamMedium-Italic.svg#GothamMedium-Italic') format('svg');
+	font-weight: 500;
+	font-style: italic;
+}

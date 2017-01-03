@@ -1,0 +1,36 @@
+/*Import fonts*/
+@import fonts.css;
+
+/*Import Pure files*/
+@import "pure/base-min.css";
+@import "pure/pure-min.css";
+@import "pure/grids-responsive-old-ie-min.css";
+@import "pure/grids-min.css";
+@import "pure/grids-responsive-min.css";
+
+/*
+@import "pure/base-context-min.css";
+@import "pure/pure-nr-min.css";
+@import "pure/buttons-core-min.css";
+@import "pure/buttons-min.css";
+@import "pure/forms-min.css";
+@import "pure/forms-nr-min.css";
+@import "pure/grids-core-min.css";
+@import "pure/grids-units-min.css";
+@import "pure/menus-core-min.css";
+@import "pure/menus-dropdown-min.css";
+@import "pure/menus-horizontal-min.css";
+@import "pure/menus-min.css";
+@import "pure/menus-scrollable-min.css";
+@import "pure/menus-skin-min.css";
+@import "pure/tables-min.css";
+*/
+
+/*Import font awesome*/
+@import "font-awesome.min.css";
+
+/*Impor Icomoon*/
+@import "icomoon.css";
+
+/*Import Custom css*/
+@import "custom.css";
